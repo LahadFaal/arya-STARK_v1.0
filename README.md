@@ -135,7 +135,7 @@ Results may vary slightly depending on CPU frequency and OS scheduling.
 
 This is a research prototype, not a production-ready FL system.
 
-The server is assumed to be honest-but-curious.
+The server is assumed to be "honest".
 
 Secure aggregation is out of scope for this artefact.
 
