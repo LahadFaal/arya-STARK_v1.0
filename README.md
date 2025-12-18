@@ -4,15 +4,6 @@ This repository provides the reference implementation and experimental artefacts
 
 The code is intended to support **reproducibility of the experimental evaluation** reported in the accompanying paper. It is **not a production system**, but a research prototype designed to run on a standard laptop.
 
-
-### Notes for Reviewers 📎
-
-The repository is anonymized for double-blind review.
-
-No author-identifying information is included.
-
-The code is provided solely to support reproducibility of the experimental evaluation.
-
 ## 📁 Repository Structure
 
 ├── artifacts/ # Experimental logs, metrics, and result artefacts
