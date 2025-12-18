@@ -1,1 +1,30 @@
 /target
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Artifacts ML
+artifacts/
+models/
+
+# Virtualenv
+.venv/
+env/
+
+
+
+[package]
+exclude = [
+    "artifacts/*",
+    "clients/*",
+    "server/*",
+    "models/*",
+    "utils/*",
+    "config.py",
+    "main.py"
+]
+
